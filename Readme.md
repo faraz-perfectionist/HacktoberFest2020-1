@@ -2,14 +2,14 @@
 
 [![Go to hacktoberfest](https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg)](https://hacktoberfest.digitalocean.com) <br/>
 # Hello People!!  <br/>
-#### If you want to get free **T-shirt,Swags** like **developer** then follow these steps.  <br/>
+#### If you want to get free **T-shirt,Swags** like **devlope**r then follow these steps.  <br/>
 # To make a pull request follow these steps: <br/>
 ## Step 1. [Go to hacktoberfest](https://hacktoberfest.digitalocean.com) <br/>
 ---
 #### click on **Start Hacking**  <br/>
 >   Login in using your GitHub account <br/> 
 >   If you don't have then create one <br/>
-## Step 2. Make at least **4 Pull Request** <br/>
+## Step 2. Make **4 Pull Request** <br/>
 ___
 # ⚡⚡ Steps for Creating First Pull request ⚡⚡ <br/>
 ---
@@ -29,4 +29,3 @@ ___
 <img src="https://i.ibb.co/DVjgKQG/Screenshot-2020-10-01-at-11-06-03-AM.png" alt="Screenshot-2020-10-01-at-11-06-03-AM" border="0"></a>  <br/>
   <br/>
 ## Repeat Same step 4 time and check your hacktober profile  <br/>
-]|I{•------»   🎀  𝐻𝒶𝓅𝓅𝓎 𝒞🌞𝒹𝒾𝓃𝑔  (/¯–‿・)/¯  🎀   »------•{I|]
